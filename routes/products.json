@@ -1,0 +1,141 @@
+[
+        {
+            "pID":"0001",
+            "pImg":"assets/products/pd1cTV.png",
+            "pName":"20’’ Premium HD LED TV OK 568 Series (K568)",
+            "pDesc":"The OKTRA HDTV also features two USB ports for further expansion and functionality of your HDTV and allows users to listen to music and view digital pictures right from their couch.",   
+            "pPrice":"10,499",
+            "pCat":["Electronics","TV","Led"]
+        },
+        {
+            "pID":"0002",
+            "pImg":"assets/products/pd2cTV.png",
+            "pName":"65” FLAGSHIP 4K UHD X1000 SERIES (X650)",
+            "pDesc":"Enter a new world of resolution that brings a new dimension of reality to your living room in large screens. Feel the power of every frame with 33 million pixels at ultimate clarity with a resolution four times the resolution of 4K",   
+            "pPrice":"155,999",
+            "pCat":["Electronics","TV","Led"]
+        },{
+            "pID":"0003",
+            "pImg":"assets/products/pd3cAC.png",
+            "pName":"Changhong Ruba SDH-18SW Pro 1.5 Ton Heat and Cool DC Invertor Air Conditioner - White",
+            "pDesc":"Brand Warranty Capacity - 1.5 Ton / 18000BTUs , Type - DC Inverter Model , Functionality: Heat & Cool",   
+            "pPrice":"79,999",
+            "pCat":["Electronics","AC"]
+        },
+        {
+            "pID":"0004",
+            "pImg":"assets/products/pd4cAC.png",
+            "pName":"Haier (Marvel Series) 1.5 Ton DC Inverter UPS Enabled - Self Cleaning - WiFi Enabled - Turbo Cooling AC - HSU-18HFMAC/Haier Free Installation",
+            "pDesc":"Brand Warranty Capacity - 1.5 Ton / 18000BTUs , Type - DC Inverter Model , Functionality: Heat & Cool",   
+            "pPrice":"92,499",
+            "pCat":["Electronics","AC"]
+        },
+        {
+            "pID":"0005",
+            "pImg":"assets/products/pd5cFN.png",
+            "pName":"Audionic Airwave Mini Portable Handled Fan With Mobile Stand",
+            "pDesc":"Rechargeable Fan , Battery Indicator , Speed Control , 4 Inch Fan (Excluding Stand)",   
+            "pPrice":"850",
+            "pCat":["Electronics","Fan"]
+        },
+        {
+            "pID":"0006",
+            "pImg":"assets/products/pd6cFN.png",
+            "pName":"Sogo Rechargeable Desk/Table USB Portable Fan (JPN-523)",
+            "pDesc":"Rechargeable Fan , Battery Indicator , Speed Control , 4 Inch Fan (Excluding Stand)",   
+            "pPrice":"4,299",
+            "pCat":["Electronics","Fan"]
+        },
+        {
+            "pID":"0007",
+            "pImg":"assets/products/pd7cPS.png",
+            "pName":"Samsung A52 - 6.5\" Display - 8GB RAM - 128GB ROM - 64MP Quad Camera - Super AMOLED Display - 4,500mAh Battery",
+            "pDesc":"8GB R - 128GB ROM , 6.5\" Corning Gorilla Glass , Super AMOLED Captivativer Touchscreen , Android 11.0 , Qualcomm SM7125 Snapdragon 720G (8 nm)",   
+            "pPrice":"65,999",
+            "pCat":["Electronics","Phone","Samsung"]
+        },
+        {
+            "pID":"0008",
+            "pImg":"assets/products/pd8cPS.png",
+            "pName":"Samsung A03s , 4GB RAM 64GB ROM , 13MP Main Camera , 5000mAh Battery",
+            "pDesc":"13 MP Main Camera , 5 MP Selfie Camera , 4 GB RAM ,64 GB ROM , 5000 mAh Battery",   
+            "pPrice":"23,999",
+            "pCat":["Electronics","Phone","Samsung"]
+        },
+        {
+            "pID":"0009",
+            "pImg":"assets/products/pd9cPI.png",
+            "pName":"Apple iPhone 12 - 64GB - PTA Approved",
+            "pDesc":"Apple iPhone 12 - 64GB - PTA Approved",   
+            "pPrice":"214,999",
+            "pCat":["Electronics","Phone","IPhone"]
+        },
+        {
+            "pID":"0010",
+            "pImg":"assets/products/pd10cPI.png",
+            "pName":"Apple iPhone 6s – 64GB - Official PTA Approved",
+            "pDesc":"Display: 4.70-inch (750×1334) , Processor: A9 , Dual-core 1.84 GHz Twister , Front Camera: 5MP , Rear Camera: 12MP , RAM: 2GB , Storage: 64GB ",   
+            "pPrice":"214,999",
+            "pCat":["Electronics","Phone","IPhone"]
+        },
+        {
+            "pID":"0011",
+            "pImg":"assets/products/pd11cC.png",
+            "pName":"Jacket,Biker Jacket Dominance",
+            "pDesc":"Biker Jacket Dominance Windproof Waterproof Jacket,Hoodie Jacket Waterproof Clothes Windbreaker Coat Male Outwear, Waterproof Soft Shell Jacket Military ,Summer Quick Dry Skin Coat Sunscreen Waterproof Mens Army Outwear Ultralight 100% Polyester",   
+            "pPrice":"4,999",
+            "pCat":["Clothes"]
+        },
+        {
+            "pID":"0012",
+            "pImg":"assets/products/pd12cC.png",
+            "pName":"Sweatshirt And Pajama / Trouser For Kids Baby Boys And Baby Girls Imported Comfy Winter Warm Tops Clothes Sets Dresses Outfit",
+            "pDesc":"Sweatshirt And Pajama Trouser , High quality material , Unique design",   
+            "pPrice":"699",
+            "pCat":["Clothes"]
+        },
+        {
+            "pID":"0014",
+            "pImg":"assets/products/pd14cC.png",
+            "pName":"Newborn Baby Boys Gentleman Romper Bodysuit Jumpsuit Clothes Formal Outfits",
+            "pDesc":"WELCOME - Quality is the first with best service. customers all are our friends. - Material: Cotton Blend - Color: As shown in the pictures - Listing Includes: A Romper - Sizes: 70/80/90/100Cm Size Chart: Attention plz: If your kid is chubby, we recommend choosing a larger size, thanks. ^_^ There is 2-3% difference according to manual measurement. please check the measurement chart carefully before you buy the item. 1 inch = 2.54 cm Please note that slight color difference should be acceptable due to the light and screen. What You Got:1 x Romper",   
+            "pPrice":"1,190",
+            "pCat":["Clothes"]
+        },
+        {
+            "pID":"0015",
+            "pImg":"assets/products/pd15cCR.png",
+            "pName":"Prince DFSK Glory Pro 1.5L SUV",
+            "pDesc":"Important Note : To place an order & for further queries & details kindly call us at 0323-4941758.",   
+            "pPrice":"4,610,000",
+            "pCat":["Cars"]
+        },
+        {
+            "pID":"0016",
+            "pImg":"assets/products/pd16cCR.png",
+            "pName":"PRINCE DFSK Pearl 800cc Car (Exclusive Availability)",
+            "pDesc":"Important Note : To place an order & for further queries & details kindly call us at 0323-4941758.",   
+            "pPrice":"1,110,000",
+            "pCat":["Cars"]
+        },
+        {
+            "pID":"0017",
+            "pImg":"assets/products/pd17cG.png",
+            "pName":"Peeled & Pre-washed Organic Quinoa Gold Tree 1 KG",
+            "pDesc":"Premium Quality Gold Tree Quinoa has several Health benefits; improves blood sugar level, Helps to reduce cholesterol Aids in weight loss, 300g",   
+            "pPrice":"544",
+            "pCat":["Groceries"]
+        },
+        {
+            "pID":"0018",
+            "pImg":"assets/products/pd18cG.png",
+            "pName":"Himalayan Chef Premium Quality Besan (Gram Flour) - 800 G Zip Lock Craft Bag",
+            "pDesc":"Besan is 100 % Pure Ground Product , Made From High Quality Ingredients.",   
+            "pPrice":"220",
+            "pCat":["Groceries"]
+        }
+
+
+
+       
+]
